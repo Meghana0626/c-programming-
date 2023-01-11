@@ -43,4 +43,4 @@ Enter Array 2 Elements: 11
 55
 
 The new array after merging is:
-1 2 3 4 5 6 7 11 22 33 44 5
+1 2 3 4 5 6 7 11 22 33 44 55
